@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001901_0000_0FB9CC920117DC88"/>
-            <pb facs="tcp:001901_0001_0FB9CC8B00832638"/>
+            <pb facs="unknown:001901_0000_0FB9CC920117DC88"/>
+            <pb facs="unknown:001901_0001_0FB9CC8B00832638"/>
             <p>Instructions to the LIVING, from the Condition of the DEAD.</p>
             <p>A Brief Relation of REMARKA<g ref="char:EOLhyphen"/>BLES in the Shipwreck of a<g ref="char:EOLhyphen"/>bove One Hundred Pirates,</p>
             <p>Who were Cast away in the Ship <hi>Whido,</hi> on the Coast of <hi>New-England, April</hi> 26. 1717.</p>
@@ -134,7 +134,7 @@
       </front>
       <body>
          <div type="narrative">
-            <pb n="3" facs="tcp:001901_0002_0FB9CC96CE0C09F0"/>
+            <pb n="3" facs="unknown:001901_0002_0FB9CC96CE0C09F0"/>
             <head>The End of Piracy.</head>
             <p>ANTIQUITY Entertains us with Prodigious Relations, of the Miseries which Mankind have suffered from the Growth of PIRACY. But perhaps no Example of growing. PIRACY has been more con<g ref="char:EOLhyphen"/>siderable, than what the <hi>Romans</hi> were in<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -155,7 +155,7 @@
                </gap> with which they <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
                </gap>
-               <pb n="4" facs="tcp:001901_0003_0FB9CE98AE6EFE50"/>
+               <pb n="4" facs="unknown:001901_0003_0FB9CE98AE6EFE50"/>
 their Dominion. All Commerce was interrupted; The City <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>hat was the Empress of the World was well nigh Starved; Some of its Magistrates as well as the other principal Citizens, fell into the Hands of the Robbers. The Coasts of <hi>Italy</hi> were every where mo<g ref="char:EOLhyphen"/>lested and the Robbers with their Vessels, Entered the very <hi>Tiber,</hi> as if <hi>Rome</hi> it self were designed for a Prey unto them. The Temples and Cities, which lay near the Sea, were Sacked; and they had the Command of no less than Four Hundred Towns on the Coasts, unto which they might retire in Cases of Extremity; while other Marine Cities paid Ransomes to them for their Liberties. These <hi>Praedacious Animals,</hi> tho' they were dispersed o<g ref="char:EOLhyphen"/>ver the whole <hi>Mediterranean,</hi> yet set up a sort of Commonwealth, and Elect<g ref="char:EOLhyphen"/>ed Governours, and had above One Thousand Ships of several sorts, and formed <hi>Regular Fleets</hi> to carry on their Disorders. They had their Ports, their Watch-Towers, their Arsenals and Magazines; and <hi>Cilicia</hi> was, as it <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -163,7 +163,7 @@ their Dominion. All Commerce was interrupted; The City <gap reason="illegible" r
                </gap>, their Citadel, from whence they <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> out Supplies for their Squadrons,
-<pb n="5" facs="tcp:001901_0004_0FB9CE9A28A83018"/>
+<pb n="5" facs="unknown:001901_0004_0FB9CE9A28A83018"/>
 upon occasion. An Extraordinary Re<g ref="char:EOLhyphen"/>medy was required, for a Mischief be<g ref="char:EOLhyphen"/>come so Formidable. The Courage and Conduct of <hi>Pompey</hi> was the Remedy. The <hi>Romans,</hi> assisted by the <hi>Rhodians,</hi> furnished <hi>Pompey,</hi> with five hundred Ships, and all the Provisions that were necessary. <hi>Pompey</hi> surpass'd the Hopes of them that Employ'd him; and in less than Three Months time he purged the Sea of <hi>Pirates;</hi> Conquered their whole Fleet; Pursued 'em to the For<g ref="char:EOLhyphen"/>tresses they had prepared among the Rocks of <hi>Taurus;</hi> Compelled the most of them to surrender upon Discretion; and lost not one Ship in the Expedi<g ref="char:EOLhyphen"/>tion.</p>
             <p>Before the PIRACY on the <hi>Atlan<g ref="char:EOLhyphen"/>tick,</hi> by reason of whom <hi>Sailing is now dangerous,</hi> arrive to any thing like what we have seen on the <hi>Mediterranean,</hi> the <hi>British</hi> Crown, Equips a Squadron of Men of War for their Extirpation. And, <hi>May our Glorious GOD <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -174,7 +174,7 @@ upon occasion. An Extraordinary Re<g ref="char:EOLhyphen"/>medy was required, fo
                </gap>ctions of <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="6" facs="tcp:001901_0005_0FB9CE9BA4D1B478"/>
+               <pb n="6" facs="unknown:001901_0005_0FB9CE9BA4D1B478"/>
 Justice on an horrid <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> of PI<g ref="char:EOLhyphen"/>RATES, which made a <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -194,7 +194,7 @@ Justice on an horrid <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> on Shore alive.</p>
             <p>
-               <pb n="7" facs="tcp:001901_0006_0FB9CEA29D163290"/>
+               <pb n="7" facs="unknown:001901_0006_0FB9CEA29D163290"/>
 § 3. It is <gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>redibly affirmed, That when these Barbarous Wretches, per<g ref="char:EOLhyphen"/>ceived that their Ship was breaking under them, and that they must Swim for their Lives, they horribly <hi>Mur<g ref="char:EOLhyphen"/>dered all their Prisoners</hi> (whereof they had a great Number) aboard; <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -218,7 +218,7 @@ Justice on an horrid <gap reason="illegible" resp="#AELD" extent="1 word">
             <p>§ 4. <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="8" facs="tcp:001901_0007_0FB9CEA3F7ECB238"/>
+               <pb n="8" facs="unknown:001901_0007_0FB9CEA3F7ECB238"/>
 The Delivered People said, <hi>Blessed be the Lord, who hath not given us as a Prey to their Teeth!</hi>
             </p>
             <p>§ 5. After some waiting for Direc<g ref="char:EOLhyphen"/>tion, His Excellency, Colonel SHUTE, the Governour, of <hi>New-England,</hi> re<g ref="char:EOLhyphen"/>ceived, such Orders, that the Trial of <hi>the <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -248,7 +248,7 @@ The Delivered People said, <hi>Blessed be the Lord, who hath not given us as a P
                   </gap>,</hi> Born at <hi>Nants</hi> in <hi>France.</hi> And <hi>T. S.</hi> Born at <hi>Boston</hi> in <hi>England.</hi>
             </p>
             <p>The Last was Cleared; But the o<g ref="char:EOLhyphen"/>ther Six, after a very fair Trial, were
-<pb n="9" facs="tcp:001901_0008_0FB9CEA56B24DC60"/>
+<pb n="9" facs="unknown:001901_0008_0FB9CEA56B24DC60"/>
 found <hi>Guilty,</hi> and received Sentence of Death.</p>
             <p>§ 6. The Ministers of <hi>Boston,</hi> impro<g ref="char:EOLhyphen"/>ved the Time, which the Clemency of the GOVERNOUR allowed for that purpose, to bestow all possible <hi>Instruc<g ref="char:EOLhyphen"/>tions</hi> upon the Condemned Criminals; Often <hi>Pray'd</hi> with them; Often <hi>Preach<g ref="char:EOLhyphen"/>ed</hi> to them. Often <hi>Examined</hi> them, and <hi>Exhorted</hi> them; and presented them with <hi>Books of Piety,</hi> suitable to their Condition. And perhaps, there is not that Place upon the face of the Earth, where more pains are taken for the Spiritual the Eternal Good of Condemned <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -267,7 +267,7 @@ found <hi>Guilty,</hi> and received Sentence of Death.</p>
                <p>Your determined Hour <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> 
-                  <pb n="10" facs="tcp:001901_0009_0FB9CEA78FC94668"/>
+                  <pb n="10" facs="unknown:001901_0009_0FB9CEA78FC94668"/>
                   <hi>Cry in the Destruction</hi> which GOD this Afternoon brings upon you. I am come to help you what I can, that your <hi>Cry</hi> may turn to some Good Ac<g ref="char:EOLhyphen"/>count. How do you find your Heart now disposed?</p>
             </sp>
             <sp>
@@ -290,7 +290,7 @@ found <hi>Guilty,</hi> and received Sentence of Death.</p>
             <sp>
                <speaker>Min.</speaker>
                <p>My Friend, This is the very First Thing that I am to advise you of. <hi>There is a Pardon to be had!</hi> The Bles<g ref="char:EOLhyphen"/>sed GOD has made this Gracious Pro<g ref="char:EOLhyphen"/>clamation; That His <hi>Name is, A GOD Gracious and Merciful, Forgiving Iniqui<g ref="char:EOLhyphen"/>ty, and Transgression and Sin.</hi> He is a GOD <hi>Ready to pardon.</hi> 'Tis your Du<g ref="char:EOLhyphen"/>ty to Lay hold on the Proclamation. The <hi>Pardoning Mercy</hi> of GOD is an
-<pb n="11" facs="tcp:001901_0010_0FB9CEACDC8A0F90"/>
+<pb n="11" facs="unknown:001901_0010_0FB9CEACDC8A0F90"/>
                   <hi>Infinite Mercy.</hi> You have not Sinned beyond the <hi>Bounds</hi> of a <hi>Mercy</hi> that has no <hi>Bounds.</hi> Poor man, Try to Believe, Embrace, Admire this Wonderful Mer<g ref="char:EOLhyphen"/>cy. You have Sinned enough already: Don't add the Sin of <hi>Despair</hi> to all the rest. Our Good GOD is One who <hi>takes pleasure in them that hope in His Mercy.</hi>
                </p>
             </sp>
@@ -318,7 +318,7 @@ found <hi>Guilty,</hi> and received Sentence of Death.</p>
                <p>But now, O Give all the At<g ref="char:EOLhyphen"/>tention of a Dying man<g ref="char:punc">▪</g> I am to shew you, how the <hi>Pardening Mercy</hi> of GOD may come to reach <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> 
-                  <pb n="12" facs="tcp:001901_0011_0FB9CEAF5E133FD0"/>
+                  <pb n="12" facs="unknown:001901_0011_0FB9CEAF5E133FD0"/>
 Died for as; has undergone the <hi>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -353,7 +353,7 @@ Died for as; has undergone the <hi>
                   <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> 
-                  <pb n="13" facs="tcp:001901_0012_0FB9CEB0AAD721F0"/>
+                  <pb n="13" facs="unknown:001901_0012_0FB9CEB0AAD721F0"/>
                   <hi>may dy such a Death as my Saviour died! Oh! that my Mind may be filled with the Love of God, and have the Image of my</hi> SAVIOUR <hi>produced in it.</hi> These Wish<g ref="char:EOLhyphen"/>es will flame in you wonderfully, if the <hi>Blood</hi> of your SAVIOUR be <hi>Sprinkled</hi> on you, for a <hi>Pardon.</hi>
                </p>
             </sp>
@@ -415,7 +415,7 @@ Died for as; has undergone the <hi>
                </p>
             </sp>
             <sp>
-               <pb n="14" facs="tcp:001901_0013_0FB9CEB227714658"/>
+               <pb n="14" facs="unknown:001901_0013_0FB9CEB227714658"/>
                <speaker>II. Min.</speaker>
                <p>Poor <hi>Vanvoorst,</hi> What shall <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -445,7 +445,7 @@ Died for as; has undergone the <hi>
             <sp>
                <speaker>Min.</speaker>
                <p>Nothing in your own <hi>Strength.</hi> But having begg'd of GOD, that <hi>He</hi> would <hi>Strengthen</hi> you. You must first
-<pb n="15" facs="tcp:001901_0014_0FB9CEB8F59AABE8"/>
+<pb n="15" facs="unknown:001901_0014_0FB9CEB8F59AABE8"/>
 Bewail it Bitterly, that you have Ser<g ref="char:EOLhyphen"/>ved <hi>Other Gods.</hi> You have set up your <hi>Self</hi> in the Throne of GOD. You have placed on the <hi>Riches</hi> of this World, the Dependence you should have, had only on GOD. You have hearkened unto <hi>Satan</hi> more than unto GOD. Are you Sorry for this?</p>
             </sp>
             <sp>
@@ -468,7 +468,7 @@ Bewail it Bitterly, that you have Ser<g ref="char:EOLhyphen"/>ved <hi>Other Gods
             <sp>
                <speaker>Min.</speaker>
                <p>But then, at the same time, 
-<pb n="16" facs="tcp:001901_0015_0FB9CEBA6BF017B8"/>
+<pb n="16" facs="unknown:001901_0015_0FB9CEBA6BF017B8"/>
 Do you heartily Consent unto <hi>this;</hi> That your SAVIOUR should by His Good <hi>spirit</hi> quicken you <hi>to</hi> Live unto GOD; and render every <hi>Sin Loathsome</hi> unto you; and incline you to every thing that is <hi>Holy and Just and Good;</hi> and give you a <hi>New Heart;</hi> and make you a <hi>New Creature;</hi> and set up His <hi>Kingdom</hi> in your Soul, and Dwell and Rule there for ever.</p>
             </sp>
             <sp>
@@ -512,7 +512,7 @@ Do you heartily Consent unto <hi>this;</hi> That your SAVIOUR should by His Good
                </p>
             </sp>
             <sp>
-               <pb n="17" facs="tcp:001901_0016_0FB9CEBBE5390998"/>
+               <pb n="17" facs="unknown:001901_0016_0FB9CEBBE5390998"/>
                <speaker>Min.</speaker>
                <p>But I wish, that you, and all your miserable Companions here, were more sensible of the Crime, for which you are presently to be chased from a<g ref="char:EOLhyphen"/>mong the Living.</p>
                <p>
@@ -534,7 +534,7 @@ Do you heartily Consent unto <hi>this;</hi> That your SAVIOUR should by His Good
                      <desc>〈◊〉</desc>
                   </gap> 
                   <hi>Sinn'd</hi> as you have done. Better have died a 
-<pb n="18" facs="tcp:001901_0017_0FB9CEBDF7DFAE30"/>
+<pb n="18" facs="unknown:001901_0017_0FB9CEBDF7DFAE30"/>
                   <hi>Martyr</hi> by the cruel Hands of your Brethren, than have become one of their Brethren.</p>
                <p>Or, If I should allow that you were <hi>at first a Forced Man,</hi> what were you <hi>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -562,7 +562,7 @@ Do you heartily Consent unto <hi>this;</hi> That your SAVIOUR should by His Good
                <p>We are Blessed with one of the Best GOVERNOURS <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> a Person of un<g ref="char:EOLhyphen"/>common Goodness, and Candour, and Clemency. He was is full of Desire to have shown Mercy, unto you and your Friend <hi>Baker</hi> here, as was possi<g ref="char:EOLhyphen"/>ble. 
-<pb n="19" facs="tcp:001901_0018_0FB9CEC00ECBBC28"/>
+<pb n="19" facs="unknown:001901_0018_0FB9CEC00ECBBC28"/>
 Instances were made unto him on your behalf, by Friends; whom he set all possible value upon: I my self bore my part in the pressing. Instances. But, when he Remonstrated unto us, the strong and full <hi>Proofs</hi> which there were of your being <hi>Active Pirates;</hi> and of your having the Cry of so much <hi>Innocent Blood</hi> against you; and we saw, his Apprehension, that he could not answer it unto GOD, no more than unto the <hi>King,</hi> (whose Commands for all Severity upon you were very positive) we could say no more; but must Approve and Applaud the <hi>Inflexi<g ref="char:EOLhyphen"/>ble Justice</hi> that we see joined with a Temper full of <hi>Mercy</hi> in him.</p>
                <p>Say now; What think you of the <hi>Bad Life,</hi> wherein you have Wan<g ref="char:EOLhyphen"/>dred from God? Can you say no<g ref="char:EOLhyphen"/>thing, that your <hi>Worthy Parents,</hi> (whom you have so kill'd!.) may take a little Comfort from! have some <hi>Light</hi> in their <hi>Darkness?</hi>
                </p>
@@ -571,7 +571,7 @@ Instances were made unto him on your behalf, by Friends; whom he set all possibl
                <speaker>V. V.</speaker>
                <p>
                   <hi>I am heartily sorry for my very bad Life. I dy with hope that GOD Almighty will be Merciful to me. And I had rather Dy this Afternoon, I would Chuse Death, rather than re<g ref="char:EOLhyphen"/>turn 
-<pb n="20" facs="tcp:001901_0019_0FB9CEC4EEBB7488"/>
+<pb n="20" facs="unknown:001901_0019_0FB9CEC4EEBB7488"/>
 to such a Life as I have Lived; rather than Repeat my Crimes.</hi>
                </p>
             </sp>
@@ -615,7 +615,7 @@ to such a Life as I have Lived; rather than Repeat my Crimes.</hi>
             <sp>
                <speaker>Min.</speaker>
                <p>There is no Help to be had, any where, but in the admira<g ref="char:EOLhyphen"/>ble SAVIOUR, whom I am now to point you to. Behold, an Admirable 
-<pb n="21" facs="tcp:001901_0020_0FB9CEC6701831E0"/>
+<pb n="21" facs="unknown:001901_0020_0FB9CEC6701831E0"/>
 SAVIOUR so calling on you, <hi>Look to me and be Saved.</hi> O Wonderful Call! <hi>Salvation</hi> to be had for a <hi>Look!</hi>
                </p>
             </sp>
@@ -650,7 +650,7 @@ SAVIOUR so calling on you, <hi>Look to me and be Saved.</hi> O Wonderful Call! <
             <sp>
                <speaker>Min.</speaker>
                <p>You must now Consider your SAVIOUR as your <hi>King;</hi> and you must say unto Him; <hi>O my SAVIOUR, 
-<pb n="22" facs="tcp:001901_0021_0FB9CEC7E4B08848"/>
+<pb n="22" facs="unknown:001901_0021_0FB9CEC7E4B08848"/>
 Enter into my Heart <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>. Set up thy Throne there; Let thy Law be written there. <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -675,7 +675,7 @@ Enter into my Heart <gap reason="illegible" resp="#AELD" extent="1 word">
                   </gap> of use to those who need the Assist<g ref="char:EOLhyphen"/>ances. You have had such put into your Hands; and you have also had the <hi>Bible</hi> bestow'd on you, with Leafs fold<g ref="char:EOLhyphen"/>ed unto <hi>Psalms,</hi> proper for you to turn into <hi>Prayers.</hi> But after all. A <hi>Soul</hi> touched with a sense of your Conditi<g ref="char:EOLhyphen"/>on, and fired with the Sight of what <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> and what you <hi>want,</hi> and what our SAVIOUR is willing to do for you, will cause you to <hi>Pray,</hi> beyond that any <hi>Forms</hi> in the World can do. I am jealous, that what you read some<g ref="char:EOLhyphen"/>times, is rather for an <hi>Amusement,</hi> than from any real and lively <hi>Sentiment</hi> rai<g ref="char:EOLhyphen"/>sed in you: For some of the <hi>Prayers</hi> you Read, are not pertinent unto your Condition. Friend, Make that <hi>Prayer, O Lord, I beseech then, deliver my Soul!</hi> Make that Prayer, <hi>O Lord, Gather not 
-<pb n="23" facs="tcp:001901_0022_0FB9CECE6C29F438"/>
+<pb n="23" facs="unknown:001901_0022_0FB9CECE6C29F438"/>
 my Soul with Sinners!</hi> Make that Pray<g ref="char:EOLhyphen"/>er, <hi>God be merciful to me a <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>.</hi> These are <hi>Great Prayers,</hi> though <hi>
@@ -709,7 +709,7 @@ my Soul with Sinners!</hi> Make that Pray<g ref="char:EOLhyphen"/>er, <hi>God be
                <p>You ought now to Dy War<g ref="char:EOLhyphen"/>ning of all People, against these <hi>Paths of the Destroyer.</hi>
                </p>
                <p>I will say to you, but this one thing more. GOD has distinguished you from your <hi>Drowned Brethren,</hi> by giving you a <hi>Space to Repent,</hi> which was denied un<g ref="char:EOLhyphen"/>to them. I am Sorry you have made no Better use of it. It may be, the 
-<pb n="24" facs="tcp:001901_0023_0FB9CED035031738"/>
+<pb n="24" facs="unknown:001901_0023_0FB9CED035031738"/>
                   <hi>Space</hi> has been given, because GOD may have some of His Chosen, among the Six <hi>Children of Death.</hi> GOD for<g ref="char:EOLhyphen"/>bid, that the <hi>Space</hi> must be of no use to you, but only to aggravate you Con<g ref="char:EOLhyphen"/>demnation, when you appear before Him.</p>
             </sp>
             <sp>
@@ -726,7 +726,7 @@ my Soul with Sinners!</hi> Make that Pray<g ref="char:EOLhyphen"/>er, <hi>God be
             <sp>
                <speaker>Min.</speaker>
                <p>To pursue this Good Intenti<g ref="char:EOLhyphen"/>on, I will now give a Blow with an <hi>Hammer,</hi> that <hi>breaks the Rocks to pieces.</hi> I will bring you the most <hi>Heart-melt<g ref="char:EOLhyphen"/>ing Word,</hi> as ever was heard in the World. We find in the Sacred Scrip<g ref="char:EOLhyphen"/>ture such a word as this; CHRIST, <hi>who is GOD, does beseech you, Be ye Re<g ref="char:EOLhyphen"/>conciled unto GOD.</hi> That ever the Son of GOD, should come to us, with such a Message from His Eternal Fa<g ref="char:EOLhyphen"/>ther! What? After we have so Of<g ref="char:EOLhyphen"/>fended His Infinite Majesty! After we have been so <hi>Vile,</hi> so <hi>Vile!</hi>—and He stands in so little Need of us!—To <hi>be<g ref="char:EOLhyphen"/>seech</hi> 
-                  <pb n="25" facs="tcp:001901_0024_0FB9CED1B92B3548"/>
+                  <pb n="25" facs="unknown:001901_0024_0FB9CED1B92B3548"/>
 such <hi>Criminals,</hi> to be <hi>Reconciled</hi> unto the Holy GOD, and be willing to be Happy in His Favour. O Wonder<g ref="char:EOLhyphen"/>ful! Wonderful! Methinks, it cannot be heard without flowing Tears of Joy!</p>
             </sp>
             <sp>
@@ -757,7 +757,7 @@ such <hi>Criminals,</hi> to be <hi>Reconciled</hi> unto the Holy GOD, and be wil
                      </gap>,</hi> will prepare you to pass from an Ignominious Death, into an Inconceivable Glory.</p>
             </sp>
             <sp>
-               <pb n="26" facs="tcp:001901_0025_0FB9CED3280B2110"/>
+               <pb n="26" facs="unknown:001901_0025_0FB9CED3280B2110"/>
                <speaker>Ho.</speaker>
                <p>
                   <hi>Oh! Let me hear them!</hi>
@@ -806,7 +806,7 @@ such <hi>Criminals,</hi> to be <hi>Reconciled</hi> unto the Holy GOD, and be wil
             <sp>
                <speaker>Min.</speaker>
                <p>GOD Accept you. Oh! That 
-<pb n="27" facs="tcp:001901_0026_0FB9CED9D066E9E0"/>
+<pb n="27" facs="unknown:001901_0026_0FB9CED9D066E9E0"/>
 your SAVIOUR, might now say to you, as He said in a Dying Hour, un<g ref="char:EOLhyphen"/>to One, who died as a <hi>Thief, This Day thou shalt be with me in Paradise.</hi> I do with some Encouragement leave you in His Glorious Hands.</p>
             </sp>
             <sp>
@@ -855,7 +855,7 @@ your SAVIOUR, might now say to you, as He said in a Dying Hour, un<g ref="char:E
             <sp>
                <speaker>Min.</speaker>
                <p>One who had been a Great 
-<pb n="28" facs="tcp:001901_0027_0FB9CEDB0C8E5B00"/>
+<pb n="28" facs="unknown:001901_0027_0FB9CEDB0C8E5B00"/>
 Sinner, had this Experiment, <hi>I said, I <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> confess my Transgressions unto the <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -920,7 +920,7 @@ Sinner, had this Experiment, <hi>I said, I <gap reason="illegible" resp="#AELD" 
                </p>
             </sp>
             <sp>
-               <pb n="29" facs="tcp:001901_0028_0FB9CEDC3AF25CD0"/>
+               <pb n="29" facs="unknown:001901_0028_0FB9CEDC3AF25CD0"/>
                <speaker>Min.</speaker>
                <p>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -977,14 +977,14 @@ Sinner, had this Experiment, <hi>I said, I <gap reason="illegible" resp="#AELD" 
                      <desc>〈◊〉</desc>
                   </gap> 
                   <hi>Gift.</hi> Oh! Keep Looking up 
-<pb n="30" facs="tcp:001901_0029_0FB9CEDDAD535908"/>
+<pb n="30" facs="unknown:001901_0029_0FB9CEDDAD535908"/>
 unto Him; <hi>Lord, Give me a Repenting Heart! O my</hi> SAVIOUR, <hi>Thou givest Repentance and Remission of Sins!</hi>
                </p>
                <p>Man, Thy Immortal SOUL is pre<g ref="char:EOLhyphen"/>sently to <hi>Return unto GOD.</hi> A SOUL doing so, can look for nothing but His <hi>Fiery Indignation,</hi> and a dreadful <hi>Ba<g ref="char:EOLhyphen"/>nishment</hi> from Him; Except it be a SOUL with another <hi>Biass</hi> upon it, than what men have in their Depraved Na<g ref="char:EOLhyphen"/>ture. It must be, A SOUL to which a CHRIST is <hi>Precious;</hi> to which a CHRIST is the <hi>Prince of Life,</hi> the <hi>Li<g ref="char:EOLhyphen"/>ving Spring</hi> of all that is Good: A SOUL to which all Sin is odious, and more <hi>Bitter than Death:</hi> A SOUL groaning under all its <hi>Evil Inclinations,</hi> as the most heavy Burdens; A SOUL sick of attemts to find Satisfaction in <hi>Crea<g ref="char:EOLhyphen"/>tures:</hi> A SOUL desirous above all things to Serve and please the Glorious GOD.</p>
                <p>
                   <hi>My Friend,</hi> May thy SOUL now be found so disposed!</p>
                <p n="6">VI. The Last among the <hi>Sons of Death,</hi> was a poor <hi>Frenchman,</hi> (called <hi>John Shuan,</hi>) to whom, inasmuch as he understood not <hi>English,</hi> and had 
-<pb n="31" facs="tcp:001901_0030_0FB9CEE143164C68"/>
+<pb n="31" facs="unknown:001901_0030_0FB9CEE143164C68"/>
 been a <hi>Roman Catholick,</hi> the Minister thus applied himself.</p>
             </sp>
             <sp>
@@ -1027,7 +1027,7 @@ been a <hi>Roman Catholick,</hi> the Minister thus applied himself.</p>
                </p>
                <p>
                   <hi>O meschant, Retourntz a L'eternel, et 
-<pb n="32" facs="tcp:001901_0031_0FB9CEE670E889D0"/>
+<pb n="32" facs="unknown:001901_0031_0FB9CEE670E889D0"/>
 it <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> pitie do vous, et il pardonnera <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1083,7 +1083,7 @@ it <gap reason="illegible" resp="#AELD" extent="1 word">
                   <p>Most Miserable Sinner; You are a Prisoner of <hi>Justice,</hi> but, you are yet a <hi>Prisoner of Hope.</hi>
                   </p>
                   <p>
-                     <pb n="33" facs="tcp:001901_0032_0FB9CEE768F99BD8"/>
+                     <pb n="33" facs="unknown:001901_0032_0FB9CEE768F99BD8"/>
 One Lord and Saviour JESUS CHRIST is the <hi>Hope of Sinners;</hi> and indeed there is not <hi>Salvation in any other.</hi>
                   </p>
                   <p>This is a Saving most certain, and worthy to be of all Entirely received; That JESUS CHRIST is <hi>Come into the World, for to save Sinners.</hi>
@@ -1109,7 +1109,7 @@ One Lord and Saviour JESUS CHRIST is the <hi>Hope of Sinners;</hi> and indeed th
                   <p>Do you understand me?</p>
                </sp>
                <sp>
-                  <pb n="34" facs="tcp:001901_0033_0FB9CEE8F2867E78"/>
+                  <pb n="34" facs="unknown:001901_0033_0FB9CEE8F2867E78"/>
                   <speaker>Shuan.</speaker>
                   <p>
                      <hi>Yes Syr; and I thank you.</hi>
@@ -1135,7 +1135,7 @@ One Lord and Saviour JESUS CHRIST is the <hi>Hope of Sinners;</hi> and indeed th
             </q>
             <p>At the Place of Execution, a Prayer was made by a Minister of the Ci<g ref="char:EOLhyphen"/>ty; The Chief Heads whereof were;</p>
             <p>
-               <pb n="35" facs="tcp:001901_0034_0FB9CEEBC96891C0"/>
+               <pb n="35" facs="unknown:001901_0034_0FB9CEEBC96891C0"/>
 An Adoration of the Divine <hi>Justice</hi> in the <hi>Evil pursuing Sinners;</hi>—</p>
             <p>—Whereof here was now a dismal Spectacle;—</p>
             <p>—And of the Divine <hi>Mercy</hi> in the <hi>Forgiveness</hi> offered unto <hi>Chief of Sinners.</hi>
@@ -1152,20 +1152,20 @@ An Adoration of the Divine <hi>Justice</hi> in the <hi>Evil pursuing Sinners;</h
             <p>An Application of these things more particularly unto the Case of the <hi>Mise<g ref="char:EOLhyphen"/>rables</hi> now standing on the Scaffold;—</p>
             <p>With ardent Cries to Heaven, that <hi>Free Grace</hi> might yet have Triumphs and Wonders in them; and all Hea<g ref="char:EOLhyphen"/>ven be filled with Praises.</p>
             <p>
-               <pb n="36" facs="tcp:001901_0035_0FB9CEF6D5EFE7E0"/>
+               <pb n="36" facs="unknown:001901_0035_0FB9CEF6D5EFE7E0"/>
 —Pleading, That nothing Less than an <hi>Almighty Arm,</hi> could change such Vicious and Obstinate Hearts as theirs; but that the Holy Spirit, who is the <hi>Arm of the LORD,</hi> is nothing Less than the Almighty GOD.</p>
             <p>A Supplication, that GOD would Sanctifie the horrible Spectacle unto the vast Croud of <hi>Spectators</hi> now as<g ref="char:EOLhyphen"/>sembled; and Effectually Caution them to Shun the <hi>Paths of the De<g ref="char:EOLhyphen"/>stroyer.</hi>
             </p>
             <p>Especially, the <hi>Young People;</hi> That they might Betimes give themselves up to the Conduct of their SAVI<g ref="char:EOLhyphen"/>OUR; Left their Disobedience pro<g ref="char:EOLhyphen"/>voke Him, to Leave them in the <hi>Hands of the Destroyer.</hi>
             </p>
             <p>And a Supplication for our <hi>Sea-fa<g ref="char:EOLhyphen"/>ring People;</hi> That they may more generally <hi>Turn</hi> and <hi>Live</hi> unto GOD; That they may not fall into the Hands of <hi>Pirates;</hi> That such as are fallen into their <hi>Hands,</hi> may not fall into their <hi>Wayes;</hi> That the poor <hi>Captives</hi> may with <hi>Cries</hi> to GOD that shall pierce the Heavens, pro<g ref="char:EOLhyphen"/>cure His Good Providence to work for their Deliverance; And, That 
-<pb n="37" facs="tcp:001901_0036_0FB9CEF7F0969558"/>
+<pb n="37" facs="unknown:001901_0036_0FB9CEF7F0969558"/>
 the <hi>Pirates</hi> now infesting the Seas, may have a Remarkable Blast from Heaven following of them; the <hi>Sea-monsters,</hi> of all the most cruel, be Extinguished; and that the Methods now taking by the <hi>British Crown</hi> for the Suppression of these Mischiefs may be prospered.</p>
             <p>On the Scaffold, as the Last Minute came on, several of the Malefactors, discovered a great Consternation.</p>
             <p>
                <hi>Baker</hi> and <hi>Hoof</hi> appeared very di<g ref="char:EOLhyphen"/>stinguishingly Paenitent.</p>
             <p>But <hi>Brown,</hi> behaved himself at such a rate, as one would hardly imagine that any <hi>Compos Mentis,</hi> could have done so. He broke out into furious Expressions, which had in them too much of the <hi>Language</hi> he had been used unto. Then he fell to Reading of <hi>Prayers,</hi> not very pertinently chosen. At length he made a <hi>Short Speech,</hi> which every body trembled at; Ad<g ref="char:EOLhyphen"/>vising <hi>Sailors,</hi> to beware of all wicked Living, such as <hi>his own</hi> had been; es<g ref="char:EOLhyphen"/>pecially to beware of falling into the Hands of the <hi>Pirates:</hi> But if they 
-<pb n="38" facs="tcp:001901_0037_0FB9CEF99741ACA0"/>
+<pb n="38" facs="unknown:001901_0037_0FB9CEF99741ACA0"/>
 did, and were <hi>forced</hi> to join with them, then, <hi>to have a care whom they kept, and whom they let go, and what Countries they come into.</hi>
             </p>
             <p>In such amazing Terms did he make his <hi>Exit!</hi> With such <hi>Madness, Go to the Dead!</hi>
@@ -1176,7 +1176,7 @@ did, and were <hi>forced</hi> to join with them, then, <hi>to have a care whom t
             </p>
          </div>
          <div type="sermon">
-            <pb n="39" facs="tcp:001901_0038_0FB9CEFBA9D17990"/>
+            <pb n="39" facs="unknown:001901_0038_0FB9CEFBA9D17990"/>
             <head>WARNINGS TO Them that make Haste TO BE RICH.</head>
             <p>
                <hi>BOSTON.</hi> 27. <hi>d.</hi> VIII. m. 1717.</p>
@@ -1192,7 +1192,7 @@ did, and were <hi>forced</hi> to join with them, then, <hi>to have a care whom t
                </gap> a very sad <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, a ve<g ref="char:EOLhyphen"/>ry black <hi>Tragedy,</hi> which en<g ref="char:EOLhyphen"/>tertains us, in a just Sentence of DEATH passed upon a 
-<pb n="40" facs="tcp:001901_0039_0FB9CF058FEE6E20"/>
+<pb n="40" facs="unknown:001901_0039_0FB9CF058FEE6E20"/>
 Great Number of PIRATES, who have made their wicked Attempts to <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -1205,14 +1205,14 @@ Great Number of PIRATES, who have made their wicked Attempts to <gap reason="ill
                <hi>leave them,</hi> and all the World, <hi>in the midst of their Days;</hi> Their <hi>End,</hi> and a <hi>fearful End</hi> is come; in which their <hi>Folly</hi> is with the most insuppor<g ref="char:EOLhyphen"/>table <hi>Stings</hi> now charged upon them. What are these PIRATES now, but so many <hi>Preachers</hi> of those Things; which once they could not bear to hear the Servants of GOD <hi>Preach</hi> unto them? Unhappy, but Practical, and Oh! why not Powerful, <hi>Preachers</hi> of the <hi>Evil which pursueth Sinners,</hi> and of the <hi>Destruction and Misery found in the Ways</hi> of Ungodliness and of Dishonesty. It will be our <hi>Folly,</hi> if the Voice of such <hi>Warners</hi> be not understood, pon<g ref="char:EOLhyphen"/>dered, hearken'd to; 'Twill be a pro<g ref="char:EOLhyphen"/>per Exercise of <hi>Wisdom,</hi> in the <hi>Winners of Souls,</hi> to make the Voice of their <hi>Warnings</hi> as Articulate and Effectual, as 'tis possible. My Heare<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>, The Condition of these wretched Men, is to <hi>Preach</hi> unto you; and I now read 
-<pb n="41" facs="tcp:001901_0040_0FB9CF06F5506830"/>
+<pb n="41" facs="unknown:001901_0040_0FB9CF06F5506830"/>
                <hi>their Text</hi> unto you; A <hi>Text</hi> on which they give you a very dismal Com<g ref="char:EOLhyphen"/>mentary.</p>
             <p>The Sinful People, on whom <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> by his Prophets denounced very de<g ref="char:EOLhyphen"/>stroying Judgments for their Sins, were yet very confident of their esca<g ref="char:EOLhyphen"/>ping the Destruction threatend unto them. One Ground of their Carnal Confidence was this; They were a <hi>Wealthy</hi> People; And they were an Instance of a <hi>Proverb,</hi> which one of their own Kings had left with them; <hi>The Rich Mans Wealth is his <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Ci<g ref="char:EOLhyphen"/>ty, and as an high Wall in his own con<g ref="char:EOLhyphen"/>ceit.</hi> My Text pulls down the <hi>High Wall</hi> of their <hi>Strong City,</hi> and shows them the <hi>Folly</hi> of their vain Imaginati<g ref="char:EOLhyphen"/>ons. They were a <hi>Rich People,</hi> 'tis true; But then, what <hi>Riches</hi> they had, they did not come honestly by them. They <hi>got Riches, but not by Right.</hi> Their Great Persons had generally got their Great Estates in Ways forbidden by GOD, Ways offensive to GOD: Now it could not be well expected, that such 
-<pb n="42" facs="tcp:001901_0041_0FB9CF088F781158"/>
+<pb n="42" facs="unknown:001901_0041_0FB9CF088F781158"/>
                <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, or their Estates could be <hi>
@@ -1232,7 +1232,7 @@ Great Number of PIRATES, who have made their wicked Attempts to <gap reason="ill
                <hi>RICHES not gotten Honesty are gotten Foolishly; and the dreadful Death which comes at the End of an Un<g ref="char:EOLhyphen"/>just Life, will terribly proclaim the Folly of it.</hi>
             </p>
             <p>
-               <pb n="43" facs="tcp:001901_0042_0FB9CF0D819DE508"/>
+               <pb n="43" facs="unknown:001901_0042_0FB9CF0D819DE508"/>
 The <hi>Peals</hi> of <hi>
                   <gap reason="illegible" resp="#AELD" extent="2 words">
                      <desc>〈◊◊〉</desc>
@@ -1248,7 +1248,7 @@ The <hi>Peals</hi> of <hi>
             <p>But I shall single out some, that are more <hi>Notorious Transgressors</hi> in the Ways of <hi>Dishonesty;</hi> and assure them, that they belong to the <hi>Tribe</hi> of <hi>Evil-doers.</hi>
             </p>
             <p>
-               <pb n="44" facs="tcp:001901_0043_0FB9CF0F2BCA4420"/>
+               <pb n="44" facs="unknown:001901_0043_0FB9CF0F2BCA4420"/>
                <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> sure, the PIRATE at Sea, and <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1264,7 +1264,7 @@ The <hi>Peals</hi> of <hi>
                      <desc>〈◊〉</desc>
                   </gap> Robbers,</hi> there are, as one of them too truly told the Execrable <hi>Alexander,</hi> much <hi>Greater</hi> Ones, whom no Hu<g ref="char:EOLhyphen"/>mane Laws presume to meddle withal: <hi>Monsters,</hi> whom we dignify with the Title of <hi>Hero's: Conquerors</hi> and <hi>Em<g ref="char:EOLhyphen"/>perors,</hi> but yet no other than a more splendid sort of <hi>Highway-man.</hi> Of these, <hi>Many have done abominably;</hi> But thou, the <hi>Leviathan</hi> lately at <hi>Ver<g ref="char:EOLhyphen"/>sailles,</hi> hast excelled them all.</p>
             <p>But it must also be asserted, That he who <hi>loves to Oppress,</hi> or to Extort from another, what he has no <hi>Legal</hi> Claim unto, the same is <hi>Brother to a Thief.</hi> When 'tis become <hi>Necessary</hi> for a Man to have such or such a Com<g ref="char:EOLhyphen"/>modity, and his Neighbour takes ad<g ref="char:EOLhyphen"/>vantage of his Necessity, to scrue un<g ref="char:EOLhyphen"/>reasonably upon him; When a Man takes advantage from his Neighbours 
-<pb n="45" facs="tcp:001901_0044_0FB9CF116665C9C8"/>
+<pb n="45" facs="unknown:001901_0044_0FB9CF116665C9C8"/>
 being <hi>Low,</hi> and <hi>Mean,</hi> and <hi>Weak,</hi> and compells him to <hi>Hard Bargains</hi> 
                <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -1275,7 +1275,7 @@ being <hi>Low,</hi> and <hi>Mean,</hi> and <hi>Weak,</hi> and compells him to <h
             <p>But then, he who <hi>Pilsers</hi> from his Neighbour, or privately takes any of his Possessions from him, without some Allowance from him for it; This is the proper <hi>Thief:</hi> All the World <hi>Brands</hi> him for such an one. What he gets, is most unquestionably <hi>not by Right.</hi> Neighbours must be some Way <hi>Agreed</hi> about it, before one may take what belongs unto another.</p>
             <p>All <hi>Fraud</hi> in Dealing, must also be condemned as a sort of <hi>Theft. Cheating</hi> and <hi>Lying,</hi> in Dealing, is but <hi>Stealing.</hi> To warrant a thing for Sound, and Good, and so and so <hi>Valuable,</hi> when it may be known to be otherwise; To draw a thing out of anothers hands by any <hi>False Talk</hi> about the mat<g ref="char:EOLhyphen"/>ter; To use <hi>False</hi> Weights, and <hi>False</hi> Scales, and <hi>False</hi> Measures</p>
             <p>
-               <pb n="46" facs="tcp:001901_0045_0FB9CF12E662C458"/>
+               <pb n="46" facs="unknown:001901_0045_0FB9CF12E662C458"/>
 This may be to <hi>get Riches;</hi> but it is <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -1287,7 +1287,7 @@ This may be to <hi>get Riches;</hi> but it is <gap reason="illegible" resp="#AEL
                <hi>Gaining</hi> by <hi>Gaming</hi> is as bad. It is to get the Estate of a Neighbour at a <hi>Price,</hi> which it ought not to be staked at. If he be such a Sot, as to stake any thing of his Estate at such a <hi>Price,</hi> our Charity should not permit us to take it from him. Surely, O Man, Thou durst not <hi>pray over</hi> this way of getting, and seriously and solemnly Beg of the Glorious GOD, <hi>O Lord, I beseech thee, send now Prosperity!</hi> A Clear Proof, 'Tis <hi>not by Right!</hi>
             </p>
             <p>And, I pray, Why should the set<g ref="char:EOLhyphen"/>ting up of <hi>Lotteries,</hi> be esteemed a Christian and a Credible Way of Li<g ref="char:EOLhyphen"/>ving? 
-<pb n="47" facs="tcp:001901_0046_0FB9CF1639F9DF88"/>
+<pb n="47" facs="unknown:001901_0046_0FB9CF1639F9DF88"/>
 Methinks, No Man that <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -1305,7 +1305,7 @@ Methinks, No Man that <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>•••</desc>
                </gap>
                <g ref="char:EOLhyphen"/>passing a <hi>Right</hi> one: <hi>Lawyers</hi> who take <hi>Fees,</hi> for pleading a <hi>Case,</hi> which they know to be an <hi>Ill</hi> one; <hi>Rulers,</hi> who <hi>Sell</hi> the publick Places of Trust, to which <hi>Merit</hi> should be the only Re<g ref="char:EOLhyphen"/>commendation: These too, may <hi>get Riches:</hi> But when the World that <hi>groans</hi> under it, shall be <hi>delivered from the Bondage of Corruptions,</hi> what they do will be condemned, as <hi>Not by Right.</hi> You may <hi>Flatter your selves, in your own Eyes,</hi> O ye Greedy Ones, As doing only what is Customary: But your <hi>Iniquity will be found hateful,</hi> and it will 
-<pb n="48" facs="tcp:001901_0047_0FB9CF1FCACDD2C8"/>
+<pb n="48" facs="unknown:001901_0047_0FB9CF1FCACDD2C8"/>
 be found a <hi>Filthy Lucre,</hi> that you are <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -1323,48 +1323,48 @@ be found a <hi>Filthy Lucre,</hi> that you are <gap reason="illegible" resp="#AE
             <p n="2">II. The Men who seek to <hi>get Rich<g ref="char:EOLhyphen"/>es,</hi> but not <hi>Honestly,</hi> they do very <hi>Foo<g ref="char:EOLhyphen"/>lishly.</hi> The Man who <hi>gets Riches,</hi> and <hi>not by Right,</hi> will most certainly be found a <hi>Fool</hi> at the last. We shall all presently see the <hi>Exaltation of this Folly.</hi>
             </p>
             <p>First. Most Certainly, Sin is <hi>Folly.</hi> How often, how often, has the <hi>Wis<g ref="char:EOLhyphen"/>dom</hi> 
-               <pb n="49" facs="tcp:001901_0048_0FB9CF212C9237A0"/>
+               <pb n="49" facs="unknown:001901_0048_0FB9CF212C9237A0"/>
 of GOD, in his Holy Oracles, call'd it so? No Man ever Sins, but he transgresses the Rules of <hi>Wisdom<g ref="char:punc">▪</g>
                </hi> It may be said of him, as in Prov. V. 23. <hi>In the Greatness of his Folly he goes astray.</hi> And his Confession must be that, 2 Sam. XXIV. 10. <hi>I have sinned in what I have done, and I have done very foolishly.</hi>
             </p>
             <p>Now when <hi>Riches</hi> are not <hi>got Honest<g ref="char:EOLhyphen"/>ly,</hi> they are <hi>got Sinfully.</hi> If they are not got by <hi>Right,</hi> they are got <hi>by Sin.</hi> The Law of the Glorious God is, <hi>Thou shalt not Covet.</hi> But there is an <hi>Evil Coveteousness</hi> in them, who get <hi>Riches, and not by Right.</hi> The Law of the Glorious GOD is, <hi>All things that you would have men do to you, do ye even so to them.</hi> They who <hi>get Riches, and not by Right,</hi> are those, who <hi>do not as they would be done unto.</hi> The Law of the Glorious GOD is, <hi>That no man over-reach, or defraud his Brother in a<g ref="char:EOLhyphen"/>ny matter.</hi> They who <hi>get Riches, and not by Right,</hi> are such as <hi>Over-reach</hi> and <hi>Defraud</hi> their Brethren. Yea, O 
-<pb n="50" facs="tcp:001901_0049_0FBA1641901C92A0"/>
+<pb n="50" facs="unknown:001901_0049_0FBA1641901C92A0"/>
                <hi>Man, What doth the Lord require of thee, but to do justly?</hi> Such Laws of the <hi>Only wise God,</hi> cannot without the most insolent Folly be trampled on.</p>
             <p>But Secondly; If Men will <hi>get Rich<g ref="char:EOLhyphen"/>es and not by Right,</hi> Let us enquire, Whether they don't <hi>lose</hi> more than they <hi>get.</hi> If they do so, 'tis most evi<g ref="char:EOLhyphen"/>dently an Egregious <hi>Folly</hi> which they are guilty of. Now, <hi>O Man, by unjust Gain, encreasing thy Substance,</hi> Come and see me state thy <hi>Accompts,</hi> and from thy most certain <hi>Losses,</hi> learn how foo<g ref="char:EOLhyphen"/>lishly thy Business has been carryed on.</p>
             <p>First; It is an astonishing Truth, and among them that walk in the Ways of <hi>Dishonesty,</hi> it falls down like a flaming <hi>Thunderbolt!</hi>—Foolish Men, All the <hi>Riches</hi> which are not <hi>Honestly gotten,</hi> must be lost in a Ship<g ref="char:EOLhyphen"/>wreck of <hi>Honest Restitution,</hi> if ever Men come unto <hi>Repentance</hi> and <hi>Salva<g ref="char:EOLhyphen"/>tion.</hi> There is no Man, who <hi>gets Riches and not by Right,</hi> but the <hi>Repen<g ref="char:EOLhyphen"/>tance, 
-<pb n="51" facs="tcp:001901_0050_0FBA164345C7A510"/>
+<pb n="51" facs="unknown:001901_0050_0FBA164345C7A510"/>
 unto Salvation,</hi> will bring him to that Language <hi>Zacheus;</hi> LUK. XIX. 8. <hi>Lord, I Restore.</hi> My Friends, 'Tis a tremendous Lesson of Christianity, which I am now treating you withal. Oh! tremble before it. It is, RESTI<g ref="char:EOLhyphen"/>TUTION, RESTITUTION; without which all things not <hi>Honestly gotten,</hi> will remain and corrode, as an Eter<g ref="char:EOLhyphen"/>nal Poison in the Soul of the Offender. If you <hi>get Riches and not by Right,</hi> it must be <hi>Repented</hi> of; it must be <hi>Re<g ref="char:EOLhyphen"/>pented</hi> of: A <hi>Righteous God who loveth Righteousness,</hi> will banish you out of His Kingdom, if it be not <hi>Repented</hi> of. Now, there can be nothing plain<g ref="char:EOLhyphen"/>er than this; That if you <hi>Retain</hi> in your hands, what you have <hi>gotten and not by Right,</hi> you do not <hi>Repent</hi> of what you have done. You cannot <hi>Repent,</hi> if you do not Refund unto the utmost of your Capacity. Of a Man who has <hi>got Riches and not by Right,</hi> we are told Job XX. 15. <hi>He hath swallowed down Riches, and he shall vomit them up again, GOD shall cast them out of his Belly.</hi> O 
-<pb n="52" facs="tcp:001901_0051_0FBA1644843A8118"/>
+<pb n="52" facs="unknown:001901_0051_0FBA1644843A8118"/>
 Unjust Man, look for a terrible Vo<g ref="char:EOLhyphen"/>mit. Either God will by Scourges, make thee throw up thy <hi>Unjust Gain,</hi> and fetch it out of thee by one Impo<g ref="char:EOLhyphen"/>verishing Stroke after another; Or else, He will by <hi>Repentance</hi> dispose thee, to throw it up, with an active, equal, patient <hi>Restitution.</hi> Alas, what hast thou been a doing? A <hi>Restitu<g ref="char:EOLhyphen"/>tion</hi> of all thy <hi>Ill-gotten Treasures</hi> must be endeavoured, if thou wouldest not shut thy self out from the Everlasting Mercies of GOD. Ah! How fear<g ref="char:EOLhyphen"/>fully, how fatally, how irrecoverably are the Souls of many <hi>Unjust Men</hi> en<g ref="char:EOLhyphen"/>tangled in the <hi>Snares of Death?</hi> They cannot hope to find Favour with GOD, or an Acceptance among true <hi>Paeni<g ref="char:EOLhyphen"/>tents,</hi> if they do not endeavour all the <hi>Restitution</hi> that is possible. But will they ever come to this? No, The <hi>Vomit</hi> is too strong for them; they'll sooner dye than come unto it! Foo<g ref="char:EOLhyphen"/>lish Men; You have at once <hi>lost</hi> all that you have <hi>got!</hi> You must with your own hands throw all <hi>over-board,</hi> if 
-<pb n="53" facs="tcp:001901_0052_0FBA16488F447668"/>
+<pb n="53" facs="unknown:001901_0052_0FBA16488F447668"/>
 you would not be <hi>drown'd in Perdition</hi> at the Last!</p>
             <p>Secondly. A <hi>Good Esteem</hi> is lost, by them who <hi>get Riches</hi> in the Ways of <hi>Dishonesty;</hi> A <hi>Good Esteem</hi> among all those, who are <hi>willing to live in all Godliness and Honesty.</hi> We have been told, Prov. XXII. 1. <hi>A good Name is rather to be chosen than great Riches.</hi> 'Tis far more Honourable and Repu<g ref="char:EOLhyphen"/>table, to be a <hi>Good Man,</hi> than to be a <hi>Rich Man.</hi> It will most of all be found so, in the Day when every Man shall <hi>receive Praise of God,</hi> who is found worthy of it. But now as a <hi>Thief is ashamed when he is found,</hi> so 'tis a <hi>shame<g ref="char:EOLhyphen"/>ful</hi> Thing to be found a <hi>False-dealer</hi> in any Degree, in any Affair: It makes a Man <hi>lightly esteemed.</hi> All <hi>Baseness</hi> in any Dealing, is a <hi>Blemish</hi> on the <hi>Dealer.</hi> To <hi>Deal unjustly with any Man;</hi> 'tis a Blot in any <hi>Scutcheon.</hi> The Kings themselves that have done it, are of, of what Memory, I beseech you? No one believes it, if they say, A <hi>Blessed</hi> One.</p>
             <p>
-               <pb n="54" facs="tcp:001901_0053_0FBA164B029D2C98"/>
+               <pb n="54" facs="unknown:001901_0053_0FBA164B029D2C98"/>
 Thirdly, Yea, <hi>a Good Conscience</hi> is <hi>Lost.</hi> And that's a worse <hi>Loss,</hi> a Thou<g ref="char:EOLhyphen"/>sand Times; a <hi>Loss</hi> which if we were wise, we should at any time <hi>take Joy<g ref="char:EOLhyphen"/>fully the Spoiling of our Goods,</hi> for the preventing of! When a man <hi>gets Riches and not by Right,</hi> he has a <hi>Conscience</hi> within him, which tells him, <hi>He does what the ought not to do.</hi> The Servant of GOD could say; Heb. XIII. 18. <hi>We have a Good Conscience, in all things wil<g ref="char:EOLhyphen"/>ling to Live honestly.</hi> Men don't keep a <hi>Good Conscience,</hi> when they don't <hi>Live Honestly.</hi> The man that has taken more than his own, is he, of whom we read, <hi>A Dreadful Sound is in his Ears;</hi> And again, <hi>Terrors shall make him afraid on every side.</hi> His Wounded <hi>Conscience</hi> keeps roaring in his Ears; <hi>Thou hast wronged thy Neighbour, and there is a Just GOD, who is a dreadful Revenger of such Wrongs at these.</hi> 'Tis a <hi>Folly</hi> for a man to in<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ur the <hi>Reproaches</hi> of an <hi>Angry Conscience.</hi> All the <hi>Riches</hi> of a <hi>Chaldean</hi> or <hi>Persian</hi> Monarch, would be too dearly bought, if a man must have them accompanied with the Lash<g ref="char:EOLhyphen"/>es of a <hi>Guilty Conscience,</hi> furiously Re<g ref="char:EOLhyphen"/>proaching of him. All the <hi>Relish</hi> of 
-<pb n="55" facs="tcp:001901_0054_0FBA164D6370D488"/>
+<pb n="55" facs="unknown:001901_0054_0FBA164D6370D488"/>
                <hi>Riches</hi> is <hi>Lost;</hi> Rocks of Diamonds, &amp; Mountains of Gold, are not worth a Straw; where the <hi>Conscience</hi> is like the <hi>Troubled Sea,</hi> and <hi>there is no peace unto the Wicked!</hi>
             </p>
             <p>Fourthly; The <hi>Loss</hi> of the SOUL is horribly <hi>Endangered;</hi> Yea, without <hi>Repentance,</hi> the <hi>Danger</hi> is <hi>Unavoidable.</hi> And oh! that the awful words of our SAVIOUR, who knew the <hi>Worth</hi> of a SOUL, were duly considered with us; Mat. XVI. 26. <hi>What is a man profited, if he gain the whole World, and Lose his own Soul!</hi> We commonly say, <hi>One may buy Gold too dear.</hi> If the SOUL be bartered away for <hi>Gold,</hi> verily, we <hi>buy Gold too dear!</hi> To get <hi>Riches and not by Right,</hi> is to render the SOUL obnox<g ref="char:EOLhyphen"/>ious to the Wrath of GOD. A SOUL perishing under the Wrath of GOD, is a <hi>Lost SOUL.</hi> Such is the SOUL of the <hi>Wicked,</hi> &amp; of him who in Ill Wayes does <hi>make Haste to be Rich.</hi> No man can <hi>Wrong</hi> another man, but it may be said of him, <hi>He wrongs his own SOUL.</hi> A very Unjust man had it said unto him; Hab. II. 9, 10. <hi>Wo to him that Coveteth an Evil Covetousness; Thou hast Sinned against thy SOUL.</hi> To <hi>Lose</hi> the 
-<pb n="56" facs="tcp:001901_0055_0FBA164F04FF05B0"/>
+<pb n="56" facs="unknown:001901_0055_0FBA164F04FF05B0"/>
                <gap reason="illegible" resp="#AELD" extent="1 page">
                   <desc>〈1 page〉</desc>
                </gap> 
-               <pb n="57" facs="tcp:001901_0056_0FBA1650840BDBB0"/>
+               <pb n="57" facs="unknown:001901_0056_0FBA1650840BDBB0"/>
 comes at the <hi>End</hi> of an <hi>Unjust Life;</hi> This, This will discover the Matchless <hi>Folly</hi> of all that is not <hi>Honestly</hi> done in and for the Getting of <hi>Riches.</hi>
             </p>
             <p>They that <hi>Get Riches and not by Right,</hi> must know, that <hi>this Trade won't Last always.</hi> Their Way, &amp; their Life, must come to an <hi>End.</hi> It won't be Long before they have such Tidings bro't unto them; Ezek VII. 6. <hi>An End is come, the End is come, it watcheth for thee, behold, it is come!</hi> No <hi>Riches</hi> will keep any man always alive. 'Tis no New Thing, to have it said, <hi>The Rich man died.</hi> It is an Occurrence of daily Experience, <hi>That they who boast them<g ref="char:EOLhyphen"/>selves in the multitude of their Riches,</hi> cannot Redeem a Brother, no, nor themselves, to <hi>Live for ever, and not see Corruption.</hi> Verily, <hi>The Fat Ones of the Earth cannot keep alive their own Souls.</hi> Much less, will the <hi>Mammon of Unrighteousness,</hi> keep off the Arrest of <hi>Death.</hi> But now, at the <hi>Death</hi> of the man who <hi>gets Riches and not by Right,</hi> What will there be Observable? Some<g ref="char:EOLhyphen"/>thing to be Observed, by which the <hi>Folly</hi> shall be <hi>manifest unto all men.</hi> Come, Let us <hi>Mark the Unjust man, 
-<pb n="58" facs="tcp:001901_0057_0FBA1653B6DCCCC0"/>
+<pb n="58" facs="unknown:001901_0057_0FBA1653B6DCCCC0"/>
 and behold the False Dealer,</hi> for <hi>the End of that man,</hi> will declare him to be a <hi>Fool.</hi>
             </p>
             <p>First. There is oftentimes, an <hi>Early Death,</hi> in the <hi>Strange Punishment</hi> for these <hi>Workers of Iniquity.</hi> They that <hi>Get Riches, and not by Right,</hi> are often<g ref="char:EOLhyphen"/>times thus <hi>Punished;</hi> They must <hi>Leave them in the midst of their Days.</hi> Thus, we find a <hi>Rich Fool</hi> promising himself <hi>Goods Laid up for many years.</hi> But, <hi>in the midst of his Days</hi> he feels this Order from Heaven served upon him; Luke XII. 20. <hi>Thou Fool, This night thy Soul shall be required of thee; Then whose shall these things be, which thou hast provided:</hi> The man must not Live to Taste the Sweet of his <hi>Ill-gotten Goods.</hi> And per<g ref="char:EOLhyphen"/>haps the <hi>Wealth</hi> of the Sinner, is Left unto a man more <hi>Just</hi> than himself. GOD required His People to <hi>deal Righ<g ref="char:EOLhyphen"/>teously</hi> with one another, and Employed this motive; Deut. XXV. 15. <hi>That thy Days may be lengthened in the Land, which the Lord thy GOD giveth thee.</hi> But in <hi>Unrighteous Dealings,</hi> men take the most Ready Course, that their <hi>Dayes may be Shortened in the Land.</hi>
             </p>
             <p>It is especially thus, when men grow 
-<pb n="59" facs="tcp:001901_0058_0FBA165504561B80"/>
+<pb n="59" facs="unknown:001901_0058_0FBA165504561B80"/>
 more <hi>Dangerous Criminals,</hi> and are so sharp set with the <hi>Cursed Hunger of Riches,</hi> that they do things wherein <hi>Humane Society</hi> shall be considerably Damnified. Our Gracious GOD has a Wondrous Tenderness for <hi>Humane So<g ref="char:EOLhyphen"/>ciety;</hi> And when men grow so Outra<g ref="char:EOLhyphen"/>geous in the Ways of <hi>Dishonesty,</hi> that <hi>Humane Society</hi> suffers Insupportable Damages from them; Now there goes up that Cry to Heaven, <hi>'Tis Time, Lord, for thee to Work!</hi> And, GOD comes down, GOD steps in, GOD in Com<g ref="char:EOLhyphen"/>passion to <hi>Humane Society,</hi> fulfils that word upon the man who <hi>trusted in the abundance of his Riches, and Strengthen<g ref="char:EOLhyphen"/>ed himself in his Wickedness;</hi> Psal. LII. 5. <hi>GOD shall take thee away, and plack thee out of thy Dwelling-place, and Root thee out of the Land of the Living.</hi> Such <hi>Dangerous Criminals</hi> are <hi>Wicked overmuch.</hi> And the Doom of them that are <hi>Wicked overmuch,</hi> is, <hi>To Dy before their Time.</hi> Such <hi>Dangerous Criminals</hi> are Left sometimes to do <hi>Bloody</hi> as well as <hi>Deceitful</hi> Things. And the Doom of such <hi>Bloody and Deceitful men,</hi> is, <hi>They shall not Live out half their Dayes.</hi> Yea, many times
-<pb n="60" facs="tcp:001901_0059_0FBA165921390910"/>
+<pb n="60" facs="unknown:001901_0059_0FBA165921390910"/>
 the Wretches run into <hi>Capital Crimes.</hi> It is reckoned among the Crimes of them who are <hi>Greedy of Gain;</hi> Prov. I. 15. <hi>Their feet run to Evil, and make Haste to shed Blood.</hi> The <hi>Sword</hi> which is to defend <hi>Humane Society,</hi> now ani<g ref="char:EOLhyphen"/>madverts upon them. That <hi>Sword</hi> of GOD cuts them off. They <hi>Dy</hi> at the Place of Execution, and <hi>as a Fool dieth.</hi> O dismal Sight! <hi>Young men</hi> drawn to the Place of Execution! <hi>Young men,</hi> who must <hi>flee to the Pit,</hi> and none may <hi>stay them! Young men,</hi> hurried out of the World, for having forfeited their Lives, by <hi>Getting Riches, and not by Right.</hi> Such a <hi>Sight</hi> is this Day to be seen a<g ref="char:EOLhyphen"/>mong us; <hi>Behold, All ye your selves have seen it!</hi>
             </p>
             <p>Secondly, But let the <hi>Death</hi> of the Wicked come when it will, be sure it <hi>Scribs</hi> them of all the <hi>Riches</hi> they were Possessed of. The <hi>Riches</hi> which have been <hi>gotten, and not by Right,</hi> many times Leave men before they <hi>Dy.</hi> There is a secret Blast from GOD, up<g ref="char:EOLhyphen"/>on the <hi>Estates</hi> that have not been <hi>Ho<g ref="char:EOLhyphen"/>nestly</hi> come at. GOD has many Ways to blist Ill gotten Estates, and make such <hi>Treasures of <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1373,14 +1373,14 @@ the Wretches run into <hi>Capital Crimes.</hi> It is reckoned among the Crimes o
                </hi> to melt away to <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>. Yea, Sometimes, if a man do 
-<pb n="61" facs="tcp:001901_0060_0FBA165A4A1A2E80"/>
+<pb n="61" facs="unknown:001901_0060_0FBA165A4A1A2E80"/>
 but get a <hi>Little</hi> unrighteously, it proves a <hi>Moth</hi> to all the rest that he has got<g ref="char:EOLhyphen"/>ten, and brings a strange Consumption upon it. But whether this fall out or no; This you may be certain of: When men Dy, then they must Leave all that they have <hi>got.</hi> So we are told, 1 <hi>Tim.</hi> VI 7. <hi>We brought nothing into the World, and it is certain we can carry nothing out.</hi> Ah, Dying Man, Thou art going, thou art going from all thy <hi>Possessions:</hi> When thou <hi>Dyest,</hi> thou shalt <hi>carry no<g ref="char:EOLhyphen"/>thing away,</hi> neither shall thy <hi>Glory de<g ref="char:EOLhyphen"/>scend after thee!</hi>
             </p>
             <p>Thirdly. At the <hi>Death</hi> of men, and at the <hi>End</hi> of all, it will be found, That SIN <hi>is what nothing is to be gotten by!</hi> To <hi>Sin,</hi> 'Tis to do a <hi>Deceitful Work. O the <hi>Deceitfulness of Sin!</hi> Men dream of <hi>Getting,</hi> I know not what, by <hi>Sinning</hi> against the Blessed GOD. But, <hi>Be not Deceived:</hi> In the <hi>End</hi> it will be found, That nothing is to be <hi>Gotten,</hi> by the <hi>Unfruitful Works of Darkness.</hi> Men may for a while Hatter themselves, that <hi>Sin</hi> will bring <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> 
                   <hi>small Gain unto the Crafts men;</hi> But Syrs, I will call upon you, as the Prophet of old upon a <hi>De<g ref="char:EOLhyphen"/>ceived People; What will ye do in the end 
-<pb n="62" facs="tcp:001901_0061_0FBA165C85019DC0"/>
+<pb n="62" facs="unknown:001901_0061_0FBA165C85019DC0"/>
 thereof?</hi> We read; Prov. X<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>. 21. <hi>An inheritance may be gotten hastily at the beginning: But the End thereof shall not <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1424,7 +1424,7 @@ thereof?</hi> We read; Prov. X<gap reason="illegible" resp="#AELD" extent="1 let
                   </gap> the <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, it bites 
-<pb n="63" facs="tcp:001901_0062_0FBA165F778B92F0"/>
+<pb n="63" facs="unknown:001901_0062_0FBA165F778B92F0"/>
 like a <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, stings like an Adder.</hi> What <hi>
@@ -1470,7 +1470,7 @@ like a <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
                <hi>Righte<g ref="char:EOLhyphen"/>ous man,</hi> before the <hi>Treasures, of many Wicked.</hi> And be within the reach of that Consolation, Psal. CVI. 3. <hi>Blessed 
-<pb n="64" facs="tcp:001901_0063_0FBA166080C02F38"/>
+<pb n="64" facs="unknown:001901_0063_0FBA166080C02F38"/>
 is he who doth Righteousness at all times.</hi>
             </p>
             <p>Thirdly. It is to be hoped, That instead of grasping inordinately after the <hi>Riches</hi> of this World, you will seek more importunately after the <hi>Durable Riches</hi> of the <hi>Spiritual Bles<g ref="char:EOLhyphen"/>sings</hi> in the <hi>Heavenly Places.</hi> Yea, Seek these <hi>True Riches</hi> 
